@@ -1,0 +1,22 @@
+.page {
+    padding-bottom: 80px;
+}
+
+.header {
+    padding: 80px 0 60px;
+    text-align: center;
+}
+
+.header h1 {
+    font-size: 3.5rem;
+    font-weight: 800;
+    margin-bottom: 16px;
+    letter-spacing: -0.02em;
+}
+
+.subtitle {
+    color: var(--text-secondary);
+    font-size: 1.2rem;
+    max-width: 600px;
+    margin: 0 auto;
+}
